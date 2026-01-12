@@ -1,0 +1,12 @@
+Reaction name,Reaction formula
+LPCHOL23AM,M00535[c]  <=> lpchol_hs[c] 
+HMR_9498,M00200[c] + M01719[c]  <=> M00216[c] + M01720[c] 
+MDZGLC_GLCAASEepp,h2o[p] + mdzglc[p]  -> glcur[p] + mdz[p] 
+CBL2D,2 cbl1[c] + h[c] + nad[c]  <=> 2 cbl2[c] + nadh[c] 
+GLYCPCHOLAH,M00535[c] + h2o[c]  -> Rtotal[c] + g3pc[c] + h[c] 
+N2Ormqpp,mqn8[c] + n2o[p]  -> h2o[p] + mql8[c] + n2[p] 
+HMR_7271,dolp_L[c] + gdpmann[c]  -> dolmanp_L[c] + gdp[c] 
+MDZGLC_GLCAASEe,h2o[e] + mdzglc[e]  -> glcur[e] + mdz[e] 
+MAN1PT2,gdp[c] + h[c] + man1p[c]  -> gdpmann[c] + pi[c] 
+PMANMi,man1p[c]  -> man6p[c] 
+MPPP9MMEOR3,h[c] + nadph[c] + o2[c] + oxomppp9mme[c]  -> dvprotochloroph[c] + 2 h2o[c] + nadp[c] 
